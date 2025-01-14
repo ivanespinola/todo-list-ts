@@ -37,7 +37,6 @@ The application will be available at `http://localhost:5173`.
 2. Add a new task using the provided input field.
 3. Mark a task as completed by clicking the corresponding button.
 4. Delete tasks as needed.
-5.
 
 ## Live Demo
 
