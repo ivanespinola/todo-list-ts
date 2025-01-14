@@ -41,7 +41,7 @@ The application will be available at `http://localhost:5173`.
 
 ## Live Demo
 
-Check out the live demo of the project [here]().
+Check out the live demo of the project [here](https://todo-list-ts-woad.vercel.app/).
 
 ## License
 
